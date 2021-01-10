@@ -272,7 +272,7 @@ Publish the website in the given URL.
 ![output](./static/img/contactus.jpg)
 
 ## CODE VALIDATION REPORT:
-![output](./static/img/home.jpg)
+![output](./static/img/home.val.jpg)
 ![output](./static/img/product.val.jpg)
 ![output](./static/img/people.val.jpg)
 ![output](./static/img/contactus.val.jpg)
